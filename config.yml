@@ -1,6 +1,6 @@
-API_ID: 29097101
-API_HASH: ada22de6fef2ad7151a8dabe35954145
-BOT_TOKEN: 6416339161:AAHTK42vR84FycDtvRkTkVC4q9Mnd4MZUko
+API_ID: 26032794
+API_HASH: 1ccced9f1c971ee459e5c539792cb2f6
+BOT_TOKEN: 6973378210:AAG9WARDLIVfvmRZ8QQ6tsJdyUCvcGtyO1s
 
 
 MONGO_URL: 
@@ -13,13 +13,12 @@ SESSION_API_HASH:
 SESSION_STRING: 
 
 ADMINS: 
-  - 5068753643
+  - 6321377431
 
-OWNER: 5068753643
+OWNER: 6321377431
 
-BOT_PIC: https://te.legra.ph/file/a44cc6ec55eeafec0c558.jpg
-OWNER_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
-
+BOT_PIC: https://te.legra.ph/file/06f1ad2e0ce823a476994.jpg
+OWNER_PIC: https://te.legra.ph/file/06f1ad2e0ce823a476994.jpg
 
 SUPPORT_CHAT: roldexversechats 
 # LOG_CHAT: 
