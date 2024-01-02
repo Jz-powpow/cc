@@ -1,0 +1,35 @@
+API_ID: 29097101
+API_HASH: ada22de6fef2ad7151a8dabe35954145
+BOT_TOKEN: 6416339161:AAHTK42vR84FycDtvRkTkVC4q9Mnd4MZUko
+
+
+MONGO_URL: 
+REDIS_URI:
+REDIS_PORT:
+REDIS_PASS:
+
+SESSION_API_ID: 
+SESSION_API_HASH: 
+SESSION_STRING: 
+
+ADMINS: 
+  - 5068753643
+
+OWNER: 5068753643
+
+BOT_PIC: https://te.legra.ph/file/a44cc6ec55eeafec0c558.jpg
+OWNER_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
+
+
+SUPPORT_CHAT: roldexversechats 
+# LOG_CHAT: 
+LOG_CHAT: 
+
+
+
+HANDLERS: 
+  - "."
+  - "!"
+  - "/"
+  - "?"
+
